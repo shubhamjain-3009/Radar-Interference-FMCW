@@ -1,3 +1,3 @@
 # Radar-Interference-FMCW
 Midterm_Code_Vault
-Machine Learning for FMCW Radar Interference Mitigation
+TO run the simulator, you need to run FMCW_Rev8.m followed by FMCW_Rev7_Analysis.m. 
